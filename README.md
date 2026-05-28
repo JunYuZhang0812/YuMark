@@ -1,3 +1,3 @@
 # YuMark
 
-YaMark 是一模本全全全的测试层Markdown 群证
+YaMark 是一款MarkDown查看及编辑工具
