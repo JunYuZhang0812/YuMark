@@ -1,3 +1,3 @@
 # YuMark
 
-YaMark 是一款MarkDown查看及编辑工具
+YuMark 是一款好用且免费的MarkDown查看及编辑工具
